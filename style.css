@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    font-family: forte;
+    background-color: darkcyan;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#game1{
+}
+#game2{
+}
+img{
+    transition: transform 0.10s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.container{
+    background: #0b0b0b;
+    text-align: center;
+}
+#mycarousel{
+    background: #0b0b0b;
+}
+#myCarousel img { 
+    height: 300px; 
+    margin-top: 35px; 
+} 
+.carousel-inner p { 
+    margin-bottom: 15px; margin-top: 15px; color : white; font-size: 20px; 
+}
+#mycarousel2{
+    background: linear-gradient(darkblue,white,darkblue);
+}
